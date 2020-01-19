@@ -1,4 +1,4 @@
-d# Operators
+# Operators
 
 ## Objectives
 
